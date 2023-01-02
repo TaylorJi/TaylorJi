@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Taylor%20Ji&fontSize=90&animation=twinkling)
 
 ---
+Currently studying Computer Systems Technology (CST) Program at BCIT 
+---
 How to reach out
 
 [![GMail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](taylor.ji719@gmail.com)
