@@ -24,9 +24,8 @@ How to reach out
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorJi)](https://github.com/TaylorJi/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorJi)](https://github.com/TaylorJi/github-readme-stats) -->
 
----
 
 <!---
 TaylorJi/TaylorJi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
