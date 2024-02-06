@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Taylor%20Ji&fontSize=90&animation=twinkling)
 
 ---
+Portfolio:
+https://taylorji.ca/
+---
 Graduate of BCIT, specializing in the Web and Mobile option from the Computer Systems Technology program
 ---
 How to reach out
